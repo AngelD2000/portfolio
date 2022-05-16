@@ -1,5 +1,5 @@
 .home{
-    height: 400px;
+    height: 800px;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -25,11 +25,10 @@
   #nav-bar a:hover{
     background-color: #ddd;
     color: black;
-    padding-bottom: 15px;
   }
   
   #nav-bar a.active {
-    color: red
+    background-color: white;
   }
   
   #nav-bar ul{
